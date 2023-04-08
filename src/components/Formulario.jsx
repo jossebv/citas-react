@@ -138,7 +138,7 @@ function Formulario({
                 <div className="mb-5">
                     <label
                         htmlFor="alta"
-                        className="w-full text-gray-700 uppercase font-bold"
+                        className="block text-gray-700 uppercase font-bold"
                     >
                         Alta
                     </label>
